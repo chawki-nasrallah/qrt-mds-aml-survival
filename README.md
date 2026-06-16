@@ -5,7 +5,7 @@
 > Public LB **0.7685 (rank 11/743)**
 > Private LB **0.7124 (rank 189)** — and the gap between those two numbers is the most interesting thing in this repo.
 
-This was my first online data-science competition: the QRT Data Challenge in Oncology, a survival-prediction task in Myelodysplastic Syndromes (MDS) and Acute Myeloid Leukemia (AML). The repo documents the modelling pipeline I submitted, the methodology behind it, and — most importantly — what the public/private leaderboard gap taught me about the limits of late-stage optimization.
+This was my first online data-science competition: the QRT Data Challenge in Oncology, a survival-prediction task in Myelodysplastic Syndromes (MDS) and Acute Myeloid Leukemia (AML). The repo documents the modelling pipeline I submitted, the methodology behind it, and — most importantly — what I learned.
 
 ---
 
